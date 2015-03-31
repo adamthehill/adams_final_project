@@ -8,16 +8,16 @@
 	margin-top: 8px;
   	padding: 8px;
   	text-align: center;
-	}
+}
 
-{
+/*{
 	margin: 0;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-}
+}*/
 
 h1 {
 	color:  #00AEEF
@@ -47,15 +47,18 @@ a {
   color: #5ABC3C;
   img { border: none; }
 }
+
 input {
       border: 0;
       padding: 10px;
       font-size: 18px;
-  }
+ }
+
 input[type="submit"] {
       background: #A5CD39;
       color: white;
 }
+
 /*ul {
 	padding: 10px;
 }
